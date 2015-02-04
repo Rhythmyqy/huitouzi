@@ -123,6 +123,7 @@
     
     NSMutableDictionary *dic = [[NSMutableDictionary alloc]init];
     [dic setObject:[credential uid] forKey:@"uuid"];
+    NSLog(@"uuid:%@",[credential uid]);
     [dic setObject:str forKey:@"thirdtype"];
     [NetService post:@"free/thirdlogin/check.json" parameters:dic success:^(id responseObject) {
         [MBProgressHUD hideAllHUDsForView:self.view animated:YES];
