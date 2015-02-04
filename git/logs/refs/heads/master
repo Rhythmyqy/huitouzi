@@ -1,0 +1,53 @@
+0000000000000000000000000000000000000000 2c09486b760bc23c37a740f54d28e08bdbaca9fb 杨青源 <yangqingyuan11@163.com> 1417487649 +0800	clone: from http://yqy_123@115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1.git
+2c09486b760bc23c37a740f54d28e08bdbaca9fb fc22a02889fa00d13be06d05c561c001da26d598 杨青源 <yangqingyuan11@163.com> 1417488067 +0800	commit: 第一次更新
+fc22a02889fa00d13be06d05c561c001da26d598 357b6f0b60fadb9c5943ac9f3e1f0b274d038ff9 杨青源 <yangqingyuan11@163.com> 1417488197 +0800	commit: xcuserstate
+357b6f0b60fadb9c5943ac9f3e1f0b274d038ff9 622edca59a4675a2f7eaa83cb2b3a2f479d9a669 杨青源 <yangqingyuan11@163.com> 1417497330 +0800	commit: 我的银行卡 银行卡页面
+622edca59a4675a2f7eaa83cb2b3a2f479d9a669 a785d37756ff5d5a38b46d6e414db3d609cbd592 杨青源 <yangqingyuan11@163.com> 1417498437 +0800	commit (merge): asdf
+a785d37756ff5d5a38b46d6e414db3d609cbd592 8447aa631cd52ebc80d0a60dade608d0e4b15a58 杨青源 <yangqingyuan11@163.com> 1417499028 +0800	commit: 资金管理超时登陆清理本地登陆信息
+8447aa631cd52ebc80d0a60dade608d0e4b15a58 b18ccdecd9a83e363937ff3b93b97c33363af506 杨青源 <yangqingyuan11@163.com> 1417499722 +0800	commit: 超时登陆……删除本地数据
+b18ccdecd9a83e363937ff3b93b97c33363af506 fbcf4869499ee772e4d4e7acd9af99c3dba3db81 杨青源 <yangqingyuan11@163.com> 1417509656 +0800	commit: 首页去处重复数据 所有的数据做真实数据连接
+fbcf4869499ee772e4d4e7acd9af99c3dba3db81 10c8e4eea097bed15acbf0dc4aef7b9f428f4b00 杨青源 <yangqingyuan11@163.com> 1417509672 +0800	merge origin/master: Merge made by the 'recursive' strategy.
+10c8e4eea097bed15acbf0dc4aef7b9f428f4b00 1bbe226865da5969b5d5f1fa97b17e8a879ed705 杨青源 <yangqingyuan11@163.com> 1417510868 +0800	commit: Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+1bbe226865da5969b5d5f1fa97b17e8a879ed705 afe75458fa858e12428a5c34a925d8ad666da55a 杨青源 <yangqingyuan11@163.com> 1417510973 +0800	commit (merge): Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+afe75458fa858e12428a5c34a925d8ad666da55a 830df326bf10b7571c2da759486367931927d824 杨青源 <yangqingyuan11@163.com> 1417512568 +0800	commit: 网络请求
+830df326bf10b7571c2da759486367931927d824 a5f5c19c04575b6769d983678eca4b47c9430deb 杨青源 <yangqingyuan11@163.com> 1417516208 +0800	commit: 修改bug 崩溃
+a5f5c19c04575b6769d983678eca4b47c9430deb 98214038e8aa0ff8bcdc1fc29f656cab45450804 杨青源 <yangqingyuan11@163.com> 1417516330 +0800	commit: text
+98214038e8aa0ff8bcdc1fc29f656cab45450804 e24e96ba6673832c1602e6480d27e9e061fbe3d5 杨青源 <yangqingyuan11@163.com> 1417516666 +0800	commit: kongge
+e24e96ba6673832c1602e6480d27e9e061fbe3d5 ac200daefd4be83b8707ec68937b213d5f3b5cab 杨青源 <yangqingyuan11@163.com> 1417517180 +0800	pull origin master: Fast-forward
+ac200daefd4be83b8707ec68937b213d5f3b5cab e0d702d86c2aeadc38a81695ec76172876bad309 杨青源 <yangqingyuan11@163.com> 1417523160 +0800	commit: 布局更新 以及程序第一次启动引导页bug修复
+e0d702d86c2aeadc38a81695ec76172876bad309 8571ce42f8430420ec5d7da5dc46b2fe6dc56ee1 杨青源 <yangqingyuan11@163.com> 1417572810 +0800	commit: 添加验证码倒计时，投资详情数据变迁
+8571ce42f8430420ec5d7da5dc46b2fe6dc56ee1 d0406c2a99a146e8497bf6304260f663bbe93949 杨青源 <yangqingyuan11@163.com> 1417587761 +0800	commit: 加载等待
+d0406c2a99a146e8497bf6304260f663bbe93949 f29cb7282616910b9dbeae1ae7d46bddcd21d5ff 杨青源 <yangqingyuan11@163.com> 1417599049 +0800	commit: 修改
+f29cb7282616910b9dbeae1ae7d46bddcd21d5ff 3dbd0476782fb01a2457def97ad7dd10ca78d569 杨青源 <yangqingyuan11@163.com> 1417599206 +0800	commit (merge): Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+3dbd0476782fb01a2457def97ad7dd10ca78d569 ac9820029b4663293deb658040e0f4b428c64f14 杨青源 <yangqingyuan11@163.com> 1417601044 +0800	commit: hug
+ac9820029b4663293deb658040e0f4b428c64f14 ce31fa1106ad5c25ab197a72e4c7138df854f9cc 杨青源 <yangqingyuan11@163.com> 1417601099 +0800	pull origin master: Merge made by the 'recursive' strategy.
+ce31fa1106ad5c25ab197a72e4c7138df854f9cc ac2958c7ef7b8453a8d4c5c419b315ba9ed36f7f 杨青源 <yangqingyuan11@163.com> 1417606449 +0800	commit: buff
+ac2958c7ef7b8453a8d4c5c419b315ba9ed36f7f be44201b56494e2d6808feea5ee5da8cb9026e3f 杨青源 <yangqingyuan11@163.com> 1417606460 +0800	pull origin master: Merge made by the 'recursive' strategy.
+be44201b56494e2d6808feea5ee5da8cb9026e3f 5d23670450adc99f0b45a32fe3c001e5af72633e 杨青源 <yangqingyuan11@163.com> 1417655520 +0800	commit: test
+5d23670450adc99f0b45a32fe3c001e5af72633e ee07e4ee0be77c3f2cef8841b9fdf47843449d94 杨青源 <yangqingyuan11@163.com> 1417655552 +0800	pull origin master: Merge made by the 'recursive' strategy.
+ee07e4ee0be77c3f2cef8841b9fdf47843449d94 de598bdf2bfa3afb2633800e2e7ec905af6cc7c9 杨青源 <yangqingyuan11@163.com> 1417659604 +0800	commit: 条件判断
+de598bdf2bfa3afb2633800e2e7ec905af6cc7c9 89cba5ec418d5524b12850d8562d6bc88ce352db 杨青源 <yangqingyuan11@163.com> 1417659618 +0800	pull origin master: Merge made by the 'recursive' strategy.
+89cba5ec418d5524b12850d8562d6bc88ce352db f2c0a60551cbf93161f1a58e3a02184253765f1e 杨青源 <yangqingyuan11@163.com> 1417661419 +0800	commit: 更多LOGING无法消失bug 4s崩溃的问题
+f2c0a60551cbf93161f1a58e3a02184253765f1e e3908daec3f2811f2d4b142296f73b9abbb219c4 杨青源 <yangqingyuan11@163.com> 1417661725 +0800	commit: 新手 图标问题
+e3908daec3f2811f2d4b142296f73b9abbb219c4 ee342c9f23f77c88803db3bd30018c659d5ddeb6 杨青源 <yangqingyuan11@163.com> 1417664670 +0800	commit: 修改bug
+ee342c9f23f77c88803db3bd30018c659d5ddeb6 aad82730992a27b6d1e565b0cc8a9e0064de5504 杨青源 <yangqingyuan11@163.com> 1417665193 +0800	commit: text
+aad82730992a27b6d1e565b0cc8a9e0064de5504 f78d8b386d6501cf974d869c44cea5ad3f802d7e 杨青源 <yangqingyuan11@163.com> 1417665200 +0800	merge origin/master: Merge made by the 'recursive' strategy.
+f78d8b386d6501cf974d869c44cea5ad3f802d7e 16c0e8bcacbc7c0f1661d8430f8e18d57f30c943 杨青源 <yangqingyuan11@163.com> 1417668630 +0800	commit: 2个投资确认页面，ui布局改变
+16c0e8bcacbc7c0f1661d8430f8e18d57f30c943 db652b3ab1b49757a3ccaf50b4411737084999d1 杨青源 <yangqingyuan11@163.com> 1417670187 +0800	commit: 细节改动
+db652b3ab1b49757a3ccaf50b4411737084999d1 7e81664f9bf5934ceebbc525bec12265948df4d2 杨青源 <yangqingyuan11@163.com> 1417671003 +0800	commit: 勾选合同才能投资
+7e81664f9bf5934ceebbc525bec12265948df4d2 2d4a742af18bbcc9ab3776f7f2826093b6d811ec 杨青源 <yangqingyuan11@163.com> 1417677187 +0800	commit (merge): Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+2d4a742af18bbcc9ab3776f7f2826093b6d811ec 069ea32b7752ab190bdd4bcde4f5bd1e5528d6f9 杨青源 <yangqingyuan11@163.com> 1417677268 +0800	commit (merge): Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+069ea32b7752ab190bdd4bcde4f5bd1e5528d6f9 a5e10ee176ce4f5c0bac4823d3c493c57cabdf74 杨青源 <yangqingyuan11@163.com> 1417686543 +0800	commit: change last
+a5e10ee176ce4f5c0bac4823d3c493c57cabdf74 8d8fff0de91bc60a9aac79c25394b1310961c696 杨青源 <yangqingyuan11@163.com> 1417686567 +0800	pull origin master: Merge made by the 'recursive' strategy.
+8d8fff0de91bc60a9aac79c25394b1310961c696 a992fa62dba7d31cbc54358801905989f7436c03 杨青源 <yangqingyuan11@163.com> 1417687012 +0800	pull origin master: Fast-forward
+a992fa62dba7d31cbc54358801905989f7436c03 3b09bcf901f263757563f6a99222926195e796e6 杨青源 <yangqingyuan11@163.com> 1417689591 +0800	commit: chenge Last
+3b09bcf901f263757563f6a99222926195e796e6 f62fc59f260a99f6b2521f1d1f7ee2742bb8b3b9 杨青源 <yangqingyuan11@163.com> 1417743048 +0800	commit: change
+f62fc59f260a99f6b2521f1d1f7ee2742bb8b3b9 bfbe626d08033d5c70fe6fda75e056d2c185945e 杨青源 <yangqingyuan11@163.com> 1417746144 +0800	commit (merge): Merge branch 'master' of http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1
+bfbe626d08033d5c70fe6fda75e056d2c185945e 40113e122146d5d263a8ebe43c718ee77fa4a5ae 杨青源 <yangqingyuan11@163.com> 1417749228 +0800	commit: 输入框 判断
+40113e122146d5d263a8ebe43c718ee77fa4a5ae e296cf8af31f25e156560b803c275e0bb55200c8 杨青源 <yangqingyuan11@163.com> 1417750374 +0800	commit: change
+e296cf8af31f25e156560b803c275e0bb55200c8 f58156a70444492e225291fae95dc780cc0b79b5 杨青源 <yangqingyuan11@163.com> 1417752137 +0800	commit: change
+f58156a70444492e225291fae95dc780cc0b79b5 5d97a4cb03d80613b092e11e4664a1463151b1f2 杨青源 <yangqingyuan11@163.com> 1417752689 +0800	commit: change last
+5d97a4cb03d80613b092e11e4664a1463151b1f2 b651df2b832f4dc19ab4547dc49547b34c751480 杨青源 <yangqingyuan11@163.com> 1417752970 +0800	commit: get all
+b651df2b832f4dc19ab4547dc49547b34c751480 ab1f7ae2ade89522523765455a3bb963d3d0b4e8 杨青源 <yangqingyuan11@163.com> 1417753024 +0800	commit: all
+ab1f7ae2ade89522523765455a3bb963d3d0b4e8 b651df2b832f4dc19ab4547dc49547b34c751480 杨青源 <yangqingyuan11@163.com> 1417770334 +0800	reset: moving
+b651df2b832f4dc19ab4547dc49547b34c751480 8b2142b92529d1714718de33e8523fe0f42eef0e 杨青源 <yangqingyuan11@163.com> 1419309967 +0800	commit: temp submit

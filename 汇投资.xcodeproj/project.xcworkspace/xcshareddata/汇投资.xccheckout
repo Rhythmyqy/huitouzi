@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B85EBCA1-E798-4EB7-916E-B58B158F815A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>汇投资</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB27BA9C525E115692D31455ACD416AE07891959</key>
+		<string>http://192.168.1.100:3000/yang_123/huitouzi_ios.git</string>
+		<key>F04FF74248850F1CAAA73E5D2BC709B883B841D2</key>
+		<string>http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>汇投资.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB27BA9C525E115692D31455ACD416AE07891959</key>
+		<string>../../../%E6%B1%87%E6%8A%95%E8%B5%842</string>
+		<key>F04FF74248850F1CAAA73E5D2BC709B883B841D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://115.28.12.51:3000/fishbeyond/huitouzi-ios-0.1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F04FF74248850F1CAAA73E5D2BC709B883B841D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB27BA9C525E115692D31455ACD416AE07891959</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%B1%87%E6%8A%95%E8%B5%842</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F04FF74248850F1CAAA73E5D2BC709B883B841D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
